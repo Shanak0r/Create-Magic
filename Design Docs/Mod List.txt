@@ -1,0 +1,210 @@
+[Main Mods]
+	Create
+	Ars Nouveau
+	
+[Addons]
+	-Create-
+	Create : Misc & Things
+	Create Enchantment Industry
+	Create: Crystal Clear
+	Create Stuff & Additions (unsure, has jetpack, grapple, drill, magnet, drones)
+	Create Chunkloading
+	Create Confectionery
+	Create Deco
+	Create: Alloyed
+	Create: Extended Flywheels
+	Create: Connected Block Textures
+	
+	-Ars-
+	Ars Creo
+	Ars Elemental
+	Ars Instrumentum
+	Too Many Glyphs
+	
+	-JEI-
+	Just Enough Effect Descriptions (JEED)
+	Just Enough Resources (JER)
+	Enchantment Descriptions
+
+[Magic]
+	Hexerei
+	Majrusz's Enchantments (Telekinesis)
+	FlashFyre's Enchantments
+	GeOre Nouveau
+
+[Building Mods]
+	Quark
+	Supplementries
+	Dark Paintings
+	Decorative Blocks
+	Dave's Building Extended
+	Diagonal Fences
+	FramedBlocks
+	Dramatic Doors
+	Even Better Amethyst [Forge]
+	Night lights
+	Sooty Chimneys (1.18)
+
+	-Furniture-
+	Another Furniture
+	Fantasy's Furniture
+	MultiBeds
+	Chimes
+	
+	-Plants-
+	Bushier Flowers
+	Beautify!
+	
+[Terrain Gen]
+	-Overworld-
+	TerraBlender
+	Excavated Variants
+	William Wythers' Overhauled Overworld
+	Oh The Biomes You'll Go
+	Missing Wilds (Forge)
+	Mirabilis: Biome Overhaul
+	-Structures-
+	Sky Villages [Forge]
+	ChoiceTheorem's Overhauled Village
+	Towns and Towers
+	Integrated Dungeons and Structures
+	Repurposed Structures (Forge)
+	Subterrestrial?
+	Structures Plus II
+	YUNG's Better Desert Temples (Forge)
+	YUNG's Better Dungeons (Forge)
+	YUNG's Better Mineshafts (Forge)
+	YUNG's Better Ocean Monuments (Forge)
+	YUNG's Better Strongholds (Forge)
+	YUNG's Bridges (Forge)
+	YUNG's Extras (Forge)
+	GeOre (heavy config)
+	-Nether-
+	Infernal Expansion
+	-End-
+	Nullscape
+	End's Phantasm
+	
+[Mobs]
+	-Pets-
+	Domestication Innovation
+	Alex's Mobs (disable fly)
+	Creatures and Beasts
+	Critters and Companions
+	Friends&Foes (Forge)
+	Waddles
+	Better Than Bunnies
+	-Hostile-
+	Creeper Overhaul
+	Creeper Firework
+	Creeper Overhaul Firework
+	-other-
+	Goblin Traders
+
+[Tools]
+	Upgraded Netherite
+	Upgraded Tools (has 3x3 tools)
+	Cosmetic Armor Reworked
+	Nature's Compass
+	Explorer's Compass
+	Neko's Enchanted Books
+	Snail Mail
+	Tom's Simple Storage Mod
+	Functional Storage
+	Artifacts
+	HT's TreeChop
+	Bartering Station
+	Building Wands
+	Paragliders (can use chickens from quark)
+	Brooms (can brooms be gliders?)
+	Advanced Hook Launchers- no if create stuff and additions
+	Tool Belt
+	Backpacked
+	
+[QoL]
+	Inventory Profiles Next
+	Light Level Overlay
+	Superior Placement
+	[Forge/Fabric] BeehiveTooltips
+	Elytra Slot (Forge)
+	Pettable Bees (Forge) - check if needed
+	Block Runner
+	Easy Anvils
+	NoMoWanderer
+	Enigmatic Graves
+	Hourglass
+	Jade
+	Client Tweaks
+	No More Torch Spam
+	Shulker Drops Two (Forge)
+	CobbleGenRandomizer
+
+[Sound]
+	AmbientSounds 5?
+	Immersive FX
+	Ding (already in another)
+	
+[GUIs]
+	Controlling
+	Configured?
+	Catalogue
+	Advancement Plaques
+	Better Advancements
+	Clickable advancements[Forge/Fabric]?
+	Cycle Paintings (Forge)
+	Just Enough Items (JEI)
+	Patchouli
+	Tips?
+	Toast Control
+	Xaero's World Map or JourneyMap
+	Xaero's Minimap
+	
+[Misc]
+	In Control! (no mobs on trees)
+	Curios API (Forge)
+	Default Options
+	Oculus
+	FTB Backups 2
+	More Wandering Trades?
+	Truly Treasures
+	Wither Skeleton Tweaks
+	Looot
+	Random Mob Effects (Forge)
+	LootJS: KubeJS Addon (if Needed)
+	
+[Libraries]
+	YUNG's API (Forge)
+	Architectury API (Fabric/Forge)
+	PolyLib
+	Upgraded Core
+	
+[Performance]
+	 https://github.com/Radplay/ActuallyUsefulMods/blob/main/Performance/Performance116.md
+	Chunk-Pregenerator(pay to preview? find another)
+	Server Performance - Smooth Chunk Save[Forge/Fabric]
+	Rubidium
+	Fastload
+	Connectivity[Forge/Fabric]
+	Saturn
+	Canary
+	Better Fps - Render Distance[Forge]
+	Clumps
+	Entity Culling Fabric/Forge
+	FastSuite
+	FerriteCore (Forge)
+	It Shall Not Tick (ISNT)
+	Server Performance - Smooth Chunk Save[Forge/Fabric]
+	Starlight (Forge)
+	Alternate Current
+	LazyDFU (doesn't work on 1.19.2?)
+	Let Me Despawn
+	Log Begone
+	Smooth Boot (Reloaded)
+	
+[Fixes]
+	Clear Skies
+	Entity Collision FPS Fix
+	Fix Experience Bug (now with FABRIC and FORGE versions)
+	Iris & Oculus Flywheel Compat
+	SwingThroughGrass
+	Model Gap Fix

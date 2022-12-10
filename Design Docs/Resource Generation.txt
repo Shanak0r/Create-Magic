@@ -1,0 +1,35 @@
+[Gems]
+	cannot generate emerald, diamond
+	Quartz: GeOre Nouveau
+	Amethyst: amethyest geodes
+	Corundum: grows underground
+	Lapis
+	Prismarie: coral {grinder} > ocean dust + nugget of experience? > prismarie shard
+	
+[Metal]
+	Copper: jasper + honey {Mixer} > crushed copper {Grind} > copper nuggets
+	Irom: cobble {crush} > gravel {wash} > iron nuggets x(2-4)
+	Gold < granite
+	Zinc: 
+	Lead?
+	
+[Dust]
+	Redstone
+	Glowstone
+	
+[Rock]
+	Cobblestone, Andesite, Granite, Diorite, Deepslate: RandomCobbleGen + Obsidian > cobblestone, cobbled (andesite, granite, diorite, deepslate)
+	Tuff: Deepslate {Grind} > Tuff
+	Calcite: Bone Block + Milk {Spout} > Calcite
+	Limestone, Shale, Jasper: RandomCobbleGen + Iron block > cobbled (limestone, shale, jasper)
+	Myalite
+	Netterrack?
+	Blackstone
+	
+	
+[Misc drops]
+	Gunpowder: egg {fire} > fried egg + ground coral? {Heated Mixer} > ugly mix + ash {Mixer} > {Compactor} > gunpowder
+	Bone meal: {Composter}
+	Ink Sac/Black dye
+	String < from wool
+	Nuggets of Experiance: Byproducts (trash)x8 + akward potion + glowstone? > Nugget of Experiance x1

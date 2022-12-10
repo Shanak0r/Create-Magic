@@ -1,0 +1,39 @@
+List of loot crates 
+Found from quests or bought from shop
+Also, same listing for choice quest rewards
+
+Log Chest:
+  128 of each
+  Oak, Brich, Spruce, Jungle, Dark Oak, Acacia, Warped, Crimson
+  
+Stone Chest:
+  128 of each
+  Cobblestone, Stone, Andesite, Diortie, Granite, Cobbled Deepslate, Tuff, Blackstone
+  
+Brick Box:
+  Various kinds of bricks
+ 
+Material Chest:
+  64 of each
+  Sand, Gravel, Clay Block, 
+  
+Dye Chest:
+  16 of each dye
+  
+Nether Blocks:
+  32 of each
+  Netherbrick, Blackstone, Basalt, Quartz Block
+  
+Growables:
+  8 of each
+  each of the 6 vanilla saplings, quark saplings, nether mushroom saplings, mushrooms, sugar cane, kelp, vines, glow berries, moss block, cactus, bamboo
+  
+Flower Box:
+  8 of each
+  each 2-high flower, all vanilla flowers, nether plants, flower pots, window pots, 
+
+Food Box:
+  16 pieces of different foods
+
+Drop Box:
+  16 of each mob drop

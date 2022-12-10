@@ -1,0 +1,12 @@
+[Supplementries]
+	-make it so cages can carry modded mobs (dynamic list)
+	
+[Quark]
+	-disable quark rope (in favor of Supplementries)
+	-disable glass shards
+	
+[ChoiceTheorem's Overhauled Village]
+	-disable vanilla villages
+
+[Building Gadgets]
+	-disable energy cost
