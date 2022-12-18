@@ -11,7 +11,7 @@
 	Irom: cobble {crush} > gravel {wash} > iron nuggets x(2-4)
 	Gold < granite
 	Zinc: 
-	Lead?
+	steel needed for dave's decor (maybe jsut cast iron)
 	
 [Dust]
 	Redstone
@@ -22,6 +22,7 @@
 	Tuff: Deepslate {Grind} > Tuff
 	Calcite: Bone Block + Milk {Spout} > Calcite
 	Limestone, Shale, Jasper: RandomCobbleGen + Iron block > cobbled (limestone, shale, jasper)
+	Asurine, Crimsite, Ochrum, Veridium [ore gen blocks]
 	Myalite
 	Netterrack?
 	Blackstone
