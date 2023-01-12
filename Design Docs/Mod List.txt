@@ -1,21 +1,21 @@
-[Main Mods]
-	Create
-	Ars Nouveau
-	
+Minecraft Version 1.18.2
+
 [Addons]
 	-Create-
-	Create : Misc & Things
-	Create Enchantment Industry
-	Create: Crystal Clear
-	Create Stuff & Additions (unsure, has jetpack, grapple, drill, magnet, drones)
-	Create Chunkloading
 	Create Confectionery
+	Create Chromatic Return
 	Create Deco
+	Create Enchantment Industry
+	Create Stuff & Additions 
 	Create: Alloyed
-	Create: Extended Flywheels
 	Create: Connected Block Textures
+	Create: Crystal Clear
+	Create: Steam 'n Rails
+	Create: Extended Cogwheels
+	Create: Extended Flywheels
+	Create Mechanical Extruder
 	
-	-Ars-
+	-Ars Nouveau-
 	Ars Creo
 	Ars Elemental
 	Ars Instrumentum
@@ -27,9 +27,8 @@
 	Enchantment Descriptions
 
 [Magic]
-	Hexerei
+	Hex Casting
 	Majrusz's Enchantments (Telekinesis)
-	GeOre Nouveau
 
 [Building Mods]
 	Quark
@@ -37,51 +36,56 @@
 	Decorative Blocks
 	Dave's Building Extended
 	FramedBlocks
-	Night lights (Java 18?)
+	Night lights
 	Another Furniture
-	Chimes	
+	Chimes
 	Bushier Flowers
 	Beautify!
+	Apple Crates
+	Byg Crates
+	Sooty Chimneys
 	
 [Terrain Gen]
 	-Overworld-
 	TerraBlender
-	Excavated Variants
-	William Wythers' Overhauled Overworld?
 	Oh The Biomes You'll Go
 	-Structures-
-	Sky Villages [Forge]
 	ChoiceTheorem's Overhauled Village
 	Integrated Dungeons and Structures
-	Structures Plus II
-	GeOre (heavy config)
+	Brass Geodes
+	YUNG's Better Desert Temples
+	YUNG's Better Dungeons
+	YUNG's Better Mineshafts
+	YUNG's Better Ocean Monuments
+	YUNG's Better Strongholds
 	-Nether-
 	Infernal Expansion
 	-End-
-	Nullscape
+	Nullscape- datapack
 	End's Phantasm
 	
 [Mobs]
 	Alex’s Mobs
+	Dragon Pets
 	Domestication Innovation
 	Creatures and Beasts
 	Critters and Companions
-	Waddles
 	Goblin Traders
 
 [Tools]
 	Upgraded Netherite
 	Upgraded Tools (has 3x3 tools)
 	Cosmetic Armor Reworked
+	Colt's Cosmetic Armor Mod
 	Nature's Compass
 	Explorer's Compass
 	Neko's Enchanted Books
 	Tom's Simple Storage Mod
-	Functional Storage
-	Bartering Station
+	Labels
 	Building Wands
 	Tool Belt
 	Backpacked
+	Artifacts
 	
 [QoL]
 	Inventory Profiles Next
@@ -89,41 +93,50 @@
 	Superior Placement
 	[Forge/Fabric] BeehiveTooltips
 	Elytra Slot (Forge)
+	TrashSlot
 	Block Runner
-	Easy Anvils
-	Enigmatic Graves?
+	Name Tag Tweaks (Forge)
+	Easy Magic
+	Corpse
 	Hourglass
 	Jade
-	Client Tweaks
-	CobbleGenRandomizer
+	Jade Addons (Forge)
 	Immersive FX
+	NoMoWanderer
 	
 [GUIs]
 	Controlling
-	Configured?
+	Configured
 	Catalogue
 	Just Enough Items (JEI)
 	Patchouli
-	Tips?
+	Tips
+	Shutup Experimental Settings!
 	Toast Control
-	Xaero's World Map or JourneyMap
+	ItemZoom
+	Tips
+	Xaero's World Map
 	Xaero's Minimap
+	BetterF3
+	Distant Horizons: A Level of Detail mod - optional, in alpha
 	
 [Misc]
+	Phantoms of The End
+	ConnectedTexturesMod
 	In Control! (no mobs on trees)
-	Default Options
-	Oculus - crashes on world load
-	FTB Backups 2?
+	Anti Mob Griefing
+	Default Options - use KubeJS
 	Truly Treasures
+	More Wandering Trades - disaable Wither Skeleton Head
 	Wither Skeleton Tweaks
+	Open Loader - use KubeJS to load data
+	Chunk Loaders
+	KubeJS
 	LootJS: KubeJS Addon (if Needed)
-	
-[Libraries]
-	Curios API (Forge)
-	Architectury API (Fabric/Forge)
-	PolyLib
-	Upgraded Core
-	
+	Oculus
+	Iris & Oculus Flywheel Compat (needs update)
+	Freecam 
+
 [Performance]
 	 https://github.com/Radplay/ActuallyUsefulMods/blob/main/Performance/Performance116.md
 	Rubidium
@@ -131,7 +144,6 @@
 	Connectivity[Forge/Fabric]
 	Saturn
 	Canary
-	Better Fps - Render Distance[Forge]
 	Clumps
 	FastSuite
 	FerriteCore (Forge)
@@ -139,9 +151,44 @@
 	Starlight (Forge)
 	Alternate Current
 	Smooth Boot (Reloaded)
+	FPS Reducer
 	
 [Fixes]
 	Clear Skies
 	Fix Experience Bug (now with FABRIC and FORGE versions)
 	SwingThroughGrass
 	Model Gap Fix
+	Yeetus Experimentus
+	Client Tweaks
+	Feature NBT Deadlock Be Gone
+
+[Libraries]
+	Architectury API (Fabric/Forge)
+	AutoRegLib
+	Balm (Forge Edition)
+	Bookshelf
+	Citadel
+	Cloth Config API (Fabric/Forge)
+	Collective
+	Curios API (Forge)
+	Bookshelf
+	Flywheel
+	Kotlin for Forge
+	Geckolib
+	libIPN
+	Moonlight Lib
+	PAUCAL
+	PolyLib
+	Placebo
+	PuzzleLib
+	Rhino
+	SuperMartijn642's Core Lib
+	SuperMartijn642's Config Lib
+	Upgraded Core
+	YUNG's API
+
+[Resource/Data Packs]
+	Stay True
+	Stay True Modded Compats
+	Create Style Modded Compats
+	Create Simple Storage

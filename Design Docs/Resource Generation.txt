@@ -1,36 +1,78 @@
 [Gems]
-	cannot generate emerald, diamond
-	Quartz: GeOre Nouveau
 	Amethyst: amethyest geodes
-	Corundum: grows underground
-	Lapis
-	Prismarie: coral {grinder} > ocean dust + nugget of experience? > prismarie shard
+	Nether Quartz: Crushed gold {Wash} |or| Soul Sand {Wash}
+	Lapis: sapphire_crystal {Crush} > crushed_sapphire + Potion of Speed {Spout} > 3x lapis 
+	Prismarie: Lapis {Haunting} > Prismarie shards + crystals
+	Corundum: grows underground, '@color' Cluster {Presser} > '@color' Sheet
 	
 [Metal]
-	Copper: jasper + honey {Mixer} > crushed copper {Grind} > copper nuggets
-	Irom: cobble {crush} > gravel {wash} > iron nuggets x(2-4)
-	Gold < granite
-	Zinc: 
-	steel needed for dave's decor (maybe jsut cast iron)
+	Copper: Veridium {Crusher} > Crushed Copper ore {Wash} > 9 copper nuggets + 50% clay
+	Irom: Crimsite {Crusher} > Crushed Iron ore {Wash} > 9 iron nuggets + 75% redstone
+	Gold: Ochrum {Crusher} > Crushed Gold ore {Wash} > 9 gold nuggets + 50% quartz
+	Zinc: Asurine {Crusher} > Crushed Zinc ore {Wash} > 9 zinc nuggets + 25% gunpowder
+	Brass: Copper + Zinc ingot {Heated Mixer} > 2 Brass Ingot
+	Bronze: 3 Copper + Zinc ingot + 3 Cinder Flour {Heated Mixer} > 3 Bronze Ingot
+	Cast Iron: Iron Ingot {Heated Compactor} > Cast Iron Ingot
+	Steel: 3 Cast Iron Ingot + 5 Carbon Powder {Heated Mixer} > 2 Steel Ingots
 	
 [Dust]
-	Redstone
-	Glowstone
+	Redstone: crushed iron {Wash} > redstone 
+		|or| cinder flour + Potion of Strength 
+		|or| ruby_crystal {Crush} > crushed_ruby + Potion of Strength {Spout} > 3x redstone 
+	Glowstone: cinder flour {Spout Nightvision} 
+		|or| Prismarine Crystal {Crush}
+		|or| topaz_crystal {Crush} > crushed_topaz + Potion of Nightvision {Spout} > 3x glowstone
+	Gunpowder: crushed zinc {Wash} > gunpowder |or| cinder flour + Potion of Harming
+	Carbon Powder: coal {Saw} > 2 Carbon Powder
+	
+[Ore Gen]
+	ore_gen_blocks: [Asurine, Crimsite, Ochrum, Veridium]
+	chocolate_type: [black_chocolate, chocolate, white_chocolate, caramel]
+	crystal_types: [sapphire, ruby, topaz, emerald]
+		Crystal Block: either 9 gems {Crush} > base_ore_block |or| 4 gems > raw crystal {*magic Crush*} > magic_ore_block {crush} > base_ore_block
+		base_ore_block > {assembaly line x4} > pour chocolate_type > ore_gen_blocks
 	
 [Rock]
-	Cobblestone, Andesite, Granite, Diorite, Deepslate: RandomCobbleGen + Obsidian > cobblestone, cobbled (andesite, granite, diorite, deepslate)
+	Cobblestone, Andesite, Granite, Diorite: through Vanilla quartz recipies or Create's with lava + flint	
+	Deepslate: ink + lava over obsidian {Extruder} > Deepslate
 	Tuff: Deepslate {Grind} > Tuff
 	Calcite: Bone Block + Milk {Spout} > Calcite
-	Limestone, Shale, Jasper: RandomCobbleGen + Iron block > cobbled (limestone, shale, jasper)
-	Asurine, Crimsite, Ochrum, Veridium [ore gen blocks]
-	Myalite
-	Netterrack?
-	Blackstone
-	
-	
+	[Create Stone Gen](in world lava + fluid)
+		Limestone: Honey
+		Scoria: Chocolate
+		Blackstone: Ink
+	Netterrack: Cobblestone + Poition of Healing {Spout}
+	Blackstone: Deepslate {Haunting} > Blackstone
+	[Quark Blocks] Peridotite, Jasper, Shale: water + lava over Iron block {Extruder}
+	[byg Blocks] Brimestone, Basaltic Magma, Cryptic Stone, Ether Soil
+	[End Blocks] Endstone, Myalite, Dusky Myalite, Raw Purpur, Cobbled Ether stone: ruby_chocolate + lava over endstone {Extruder}
+	Myalite Crystal: Myalite + Corundum Cluster {Heated Mixer} > Myalite Crystal
+	Dusky Myalite: Myalite + coal/charcoal {Heated Mixer} > Dusky Myalite
+
+[Other Blocks]
+	Dirt: Coarse Dirt {Hoe} > Dirt
+	Rooted Dirt: Dirt + sapling (any) {Mixer} > Rooted Dirt
+	Lush Dirt: Mud + Dirt > Lush Dirt
+	Peat: Mud + charcoal > Peat
+	End Sand: Endstone {Crusher} > 1 End Sand
+	Make Dead Coral? crafted from fans
+	[fixing BYG recipies]
+		Colored sand using 8 sand + dye color {Crafting} 
+		Colored sandstone using the colored sand
+		Windswept sand + sandstone
+		warped_soul_sand, warped_soul_soil
+		Cracked Red sand: Red Sandstone {Wash} > Cracked Red Sand
+		Ether Soil: Dirt + Endstone
+
 [Misc drops]
-	Gunpowder: egg {fire} > fried egg + ground coral? {Heated Mixer} > ugly mix + ash {Mixer} > {Compactor} > gunpowder
 	Bone meal: {Composter}
-	Ink Sac/Black dye
-	String < from wool
-	Nuggets of Experiance: Byproducts (trash)x8 + akward potion + glowstone? > Nugget of Experiance x1
+	Clay: from gravel, sand, or dripstone
+	Dyes: flowers
+	Plants you can't grow more: Lilypads, Dripleaf, Flowering Lilypads(2), 
+	Nuggets of Experiance: Byproducts (trash)x8 + diamonds? > Nugget of Experiance x1
+	
+[Possible materials]
+	Blank Slate/Block of Slate, pearl, Phantasm's crystal + void crystal, Therium crystal/shard?, subzero crystal(nether)
+	
+[Unused]
+	

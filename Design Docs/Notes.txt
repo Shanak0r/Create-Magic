@@ -1,0 +1,19 @@
+Add blocks to blockrunner.json
+
+In more loot chests: name tages, Collar tag, saddles, parrot eggs, Cloud in a bottle, Banner patterns
+Labels should use regular ink
+disable Create moving budding blocks
+
+take from A Create Jounry:
+	blossom saplings from colored runes
+	Tom's storage?
+	
+Info to geodes about spawning rules
+
+Connected textures for Stay True
+
+Apple Crates BYG missing textures?
+
+If you open Configured/Catalogue with Alex's Mobs, you will have Invisable Entities when entering world (restart Minecraft)
+
+make soul sand > scoria recipe use blast furnace
