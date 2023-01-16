@@ -13,31 +13,30 @@ Adjusted configs for Create: Magic modpack
 [Brass Geodes]
 	Remove Diamond/Emerald ore gen: Off
 	
-[Block Runner]
-	
-	
 [Client Tweaks]
 	Auto climb ladder: On
 	
 [Hourglass] -defaultconfigs
 	daySpeed = 0.5 
-	
-[Integrated Dungeons and Structures] - data in KubeJS
-	idas_common
-		"spacing": 30,
-		"separation": 20
+	nightSpeed = 0.5
 
 [Inventory Profiles Next]
 	{GUI Settings}
 		Disable Overlay Settings, Profiles Switching buttons
 	Various prefences
 	
+[InControl!]
+	{spawn}
+		disable hostile mobs spawning on logs
+	
 [JEResources] - defaultconfigs
 	added to enchantsBlacklist: "reactive"
 	
 [Quark]
-	Charcoal to Black Dye: disable (use Create's crusher recipe)?
+	Charcoal to Black Dye: disable 
 	Disable inventory sorting (use Inventory profiles)
 	Disable q button
 	Disable Hotbar changer
 	
+[Loot Tables]
+	added loot tables from Rebalanced_Loot_Datapack

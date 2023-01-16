@@ -28,6 +28,7 @@ Minecraft Version 1.18.2
 
 [Magic]
 	Hex Casting
+	Forbidden & Arcanus
 	Majrusz's Enchantments (Telekinesis)
 
 [Building Mods]
@@ -41,8 +42,6 @@ Minecraft Version 1.18.2
 	Chimes
 	Bushier Flowers
 	Beautify!
-	Apple Crates
-	Byg Crates
 	Sooty Chimneys
 	
 [Terrain Gen]
@@ -61,7 +60,7 @@ Minecraft Version 1.18.2
 	-Nether-
 	Infernal Expansion
 	-End-
-	Nullscape- datapack
+	Nullscape: datapack
 	End's Phantasm
 	
 [Mobs]
@@ -71,6 +70,9 @@ Minecraft Version 1.18.2
 	Creatures and Beasts
 	Critters and Companions
 	Goblin Traders
+	Phantoms of The End
+	Truly Treasures
+	Wither Skeleton Tweaks
 
 [Tools]
 	Upgraded Netherite
@@ -86,6 +88,7 @@ Minecraft Version 1.18.2
 	Tool Belt
 	Backpacked
 	Artifacts
+	Chunk Loaders
 	
 [QoL]
 	Inventory Profiles Next
@@ -94,7 +97,6 @@ Minecraft Version 1.18.2
 	[Forge/Fabric] BeehiveTooltips
 	Elytra Slot (Forge)
 	TrashSlot
-	Block Runner
 	Name Tag Tweaks (Forge)
 	Easy Magic
 	Corpse
@@ -118,24 +120,14 @@ Minecraft Version 1.18.2
 	Xaero's World Map
 	Xaero's Minimap
 	BetterF3
-	Distant Horizons: A Level of Detail mod - optional, in alpha
 	
 [Misc]
-	Phantoms of The End
-	ConnectedTexturesMod
-	In Control! (no mobs on trees)
+	In Control!
 	Anti Mob Griefing
-	Default Options - use KubeJS
-	Truly Treasures
-	More Wandering Trades - disaable Wither Skeleton Head
-	Wither Skeleton Tweaks
-	Open Loader - use KubeJS to load data
-	Chunk Loaders
 	KubeJS
-	LootJS: KubeJS Addon (if Needed)
-	Oculus
-	Iris & Oculus Flywheel Compat (needs update)
-	Freecam 
+	Oculus - can caush crashes
+	Iris & Oculus Flywheel Compat 
+	Freecam - personal
 
 [Performance]
 	 https://github.com/Radplay/ActuallyUsefulMods/blob/main/Performance/Performance116.md
@@ -185,10 +177,10 @@ Minecraft Version 1.18.2
 	SuperMartijn642's Core Lib
 	SuperMartijn642's Config Lib
 	Upgraded Core
+	Valhelsia Core
 	YUNG's API
 
 [Resource/Data Packs]
 	Stay True
-	Stay True Modded Compats
 	Create Style Modded Compats
 	Create Simple Storage

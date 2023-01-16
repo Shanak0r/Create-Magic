@@ -72,7 +72,7 @@
 	Nuggets of Experiance: Byproducts (trash)x8 + diamonds? > Nugget of Experiance x1
 	
 [Possible materials]
-	Blank Slate/Block of Slate, pearl, Phantasm's crystal + void crystal, Therium crystal/shard?, subzero crystal(nether)
+	Blank Slate/Block of Slate, pearl, Phantasm's crystal + void crystal, Therium crystal/shard?, subzero crystal(nether), Rune
 	
 [Unused]
 	
